@@ -1,6 +1,6 @@
 # Sobre mim
-- 👋Ola Meu nome é @joaoiagas
-- :+1:Meu email de contato é joaoiagas@escola.pr.gov.br
+- 👋Ola Meu nome é **@joaoiagas**
+- :+1:Meu email de contato é [email](joaoiagas@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch.
 
